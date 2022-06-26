@@ -30,7 +30,7 @@ var a = 'aa'; //redeclaracion
 
 // Global Scope
 
-// Cualquier variable que se encuentre en el documento pasan a ser variables globales y se instancian en el objeto WINDOW asi que vamos a poder acceder donde queramos a estas funciones o variables segun sea el caso que estemos agregando
+// Cualquier variable que se encuentre en el documento pasan a ser variables GLOBALES y se instancian en el objeto WINDOW asi que vamos a poder acceder donde queramos a estas Funciones o Variables segun sea el caso que estemos agregando
 
 var fruit = 'Apple'; // global
 
