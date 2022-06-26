@@ -1,4 +1,5 @@
 // FUNCTION SCOPE
+
 function greeting(){
     let userName = 'Ana';
     console.log(userName);
