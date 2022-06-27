@@ -31,8 +31,8 @@ console.log(fruit);
 // pero que pasaria si yo quiero volver a declarar
 let fruit = 'Banana' // no se puede redeclarar una varible dentro del Block Scope
 console.log(fruit)
-// entonces eso quiere decir que con "Let" NO podemo redeclarar
-// Pero... SI podemos Reasignar con "Let", es decir si podemos cambiar el valor
+// entonces eso quiere decir que con "Let" NO podemo REDECLARAR
+// Pero... SI podemos REASIGNAR con "Let", es decir si podemos cambiar el valor
 
 
 // --------------------------------
